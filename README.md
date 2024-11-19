@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub!
 
-<!--
-**MKowalski8/MKowalski8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Computer Science student in my third year at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow. I'm passionate about programming and constantly exploring new technologies.
 
-Here are some ideas to get you started:
+My primary interest lies in cybersecurity, where I focus on penetration testing and understanding the intricacies of system vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy:
+- Crafting efficient and reliable code
+- Tackling complex cybersecurity challenges
+- Diving into microcontrollers and understanding how things work on a fundamental level  
+
+🎵 Outside of technology, I spend my free time:
+  - Stay active by going to the gym 🏋️
+  - Play musical instruments and explore creativity through music 🎹 🪗
+
+🔒 Cybersecurity is not just a field—it's a mindset. I strive to continuously improve my skills and contribute to creating safer systems for everyone.
+
+Feel free to check out my repositories and connect with me! 🚀
