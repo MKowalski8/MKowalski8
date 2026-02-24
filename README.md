@@ -1,11 +1,18 @@
 # 👋 Hi there! Welcome to my GitHub!
 
-#### I'm a Computer Science student in my third year at the Faculty of Computer Science at the AGH University of Science and Technology in Cracow. I'm passionate about programming and constantly exploring new technologies.
+#### I'm currently pursuing my Master's degree in Cybersecurity at the AGH University of Science and Technology in Cracow.
 
-My primary interest lies in cybersecurity, where I focus on penetration testing and understanding the intricacies of system vulnerabilities.
+My primary interest lies in cybersecurity, specifically focusing on **penetration testing** and understanding the intricacies of system vulnerabilities. 
 
-🎵 Outside of technology, I spend my free time:
-  - Stay active by going to the gym 🏋️
-  - Play musical instruments and explore creativity through music 🎹 🪗
+🎵 **When I'm away from the keyboard, I like to:**
+- Stay active and hit the gym 🏋️
+- Play musical instruments 🎹 🪗
+
+---
+
+### 📫 Let's Connect!
 
 Feel free to check out my repositories and connect with me! 🚀
+
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymilian.kow8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKED%20IN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksymilian-kowalski-684303335/)
