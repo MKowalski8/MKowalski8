@@ -10,7 +10,7 @@ My primary interest lies in cybersecurity, specifically focusing on **penetratio
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 Feel free to check out my repositories and connect with me! 🚀
 
